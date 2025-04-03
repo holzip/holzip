@@ -1,6 +1,7 @@
 ## Hi there 👋
 <p class="framer-text framer-styles-preset-144c91w" data-styles-preset="T6ddxQNYr" style="--framer-text-color:var(--token-ec4ce52f-33cb-4ed4-bfe6-1e35ee3404e7, rgb(255, 255, 255))"><!--$--><a class="framer-text framer-styles-preset-9hrdhr" data-styles-preset="Rm8n8FvoD" href="https://termius.com/" rel="noopener">Termius</a><!--/$--> provides a secure, reliable, and collaborative SSH client.</p>
 
+![изображение](https://github.com/user-attachments/assets/a5438a93-a80f-4833-a201-7735da431c7c)
 
 <!--
 **holzip/holzip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
