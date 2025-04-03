@@ -1,4 +1,5 @@
 ## Hi there 👋
+![изображение](https://github.com/user-attachments/assets/43f88836-330e-4479-8667-a42360f7bdbc)
 
 <!--
 **holzip/holzip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
